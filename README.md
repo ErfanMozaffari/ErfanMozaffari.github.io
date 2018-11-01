@@ -1,7 +1,7 @@
-# https://ErfanMozaffari.github.io
+# erfanmozaffari.github.io
 
 
 
-This Theme is downloaded from https://github.com/arjunskumar/arjunskumar.github.io
+This Theme is downloaded from https://github.com/arjunskumar
 
 
